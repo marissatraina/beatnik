@@ -14,6 +14,7 @@ rspotify: https://github.com/guilhermesad/rspotify
 
 spotify web-api player example: https://github.com/possan/webapi-player-exampled
 
+hamburgers: https://codepen.io/j_holtslander/pen/XmpMEp
 
 ##Team Conventions
 
