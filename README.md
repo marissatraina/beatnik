@@ -1,5 +1,7 @@
 # beatnik
 
+beatnik-test repo with working spotify integration: https://github.com/gvbilello/beatnik-test
+
 ##Resources
 
 Threejs practice: https://github.com/mrdoob/three.js/wiki/Getting-Started
