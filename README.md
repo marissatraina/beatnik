@@ -1,4 +1,4 @@
-# threejs-practice
+# beatnik
 
 https://github.com/mrdoob/three.js/wiki/Getting-Started
 
