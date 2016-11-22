@@ -4,7 +4,7 @@
 
 Threejs practice: https://github.com/mrdoob/three.js/wiki/Getting-Started
 
-Beginner's guide: http://blog.teamtreehouse.com/the-beginners-guide-to-three-js
+Beginner's guide to threejs: http://blog.teamtreehouse.com/the-beginners-guide-to-three-js
 
 mrdoob threejs repo: https://github.com/mrdoob/three.js/wiki
 
