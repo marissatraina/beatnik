@@ -2,13 +2,15 @@
 
 ##Resources
 
-https://github.com/mrdoob/three.js/wiki/Getting-Started
+Threejs practice: https://github.com/mrdoob/three.js/wiki/Getting-Started
 
-http://blog.teamtreehouse.com/the-beginners-guide-to-three-js
+Beginner's guide: http://blog.teamtreehouse.com/the-beginners-guide-to-three-js
 
-https://github.com/mrdoob/three.js/wiki
+mrdoob threejs repo: https://github.com/mrdoob/three.js/wiki
 
-http://threejsplaygnd.brangerbriz.net/gui/
+threejsplaygnd: http://threejsplaygnd.brangerbriz.net/gui/
+
+rspotify: https://github.com/guilhermesad/rspotify
 
 
 ##Team Conventions
